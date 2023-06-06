@@ -1,4 +1,4 @@
-# goit-react-hw-06-phonebook
+# goit-react-hw-07-phonebook
 
 ## Критерії приймання
 
@@ -23,6 +23,9 @@
 [mockapi.io](https://mockapi.io/). Зареєструйся використовуючи свій обліковий
 запис GitHub. Створи ресурс `contacts` щоб отримати ендпоінт `/contacts`.
 Використай конструктор ресурсу та опиши об'єкт контакту як на ілюстрації.
+
+![image](https://github.com/savchyndd/goit-react-hw-07-phonebook/assets/96209694/d303c3fa-09de-40e8-908a-f01dde3fce42)
+
 
 #### Форма стану
 
